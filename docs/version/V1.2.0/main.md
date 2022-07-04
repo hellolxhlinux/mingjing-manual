@@ -1,6 +1,6 @@
 # 口腔摄录直播系统使用说明书
 
-![](RackMultipart20220704-1-hnytm9_html_bb884a13ca001be9.jpg)
+![langsee](func-area.png "interface")
 
 1. 命令区 ②图像区 ③信息区 ④状态区
 
